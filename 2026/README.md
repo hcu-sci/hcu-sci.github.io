@@ -1,1 +1,1 @@
-Maykin W., PhD
+AI3303 Data Analytics and Visualization (วิทยาการวิเคราะห์ข้อมูลและการสร้างภาพนามธรรม)
