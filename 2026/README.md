@@ -1,1 +1,3 @@
-AI3303 Data Analytics and Visualization (วิทยาการวิเคราะห์ข้อมูลและการสร้างภาพนามธรรม)
+# Data Analytics and Visualization
++ AI3303 
++ วิทยาการวิเคราะห์ข้อมูลและการสร้างภาพนามธรรม
