@@ -13,3 +13,14 @@ body {
 .main-content h2 {
   color: #c40000;
 }
+
+/* ===== เปลี่ยน header (ตัวเขียวหลัก) ===== */
+.page-header {
+  background-color: #c40000;
+  background-image: linear-gradient(120deg, #c40000, #ffcc00);
+}
+
+/* ===== เปลี่ยนสีชื่อ project ===== */
+.project-name {
+  color: #ffffff;
+}
