@@ -4,7 +4,7 @@
 ### Pre-requisite: Mathematics and Statistics for Artificial Intelligence 2
 + AI2433 คณิตศาสตร์และสถิติสาหรับปัญญาประดิษฐ์ 2
 
-# Students
+## Students
 
 - Apasita Pasukree
 - Kanokphorn Rungrattanapong
