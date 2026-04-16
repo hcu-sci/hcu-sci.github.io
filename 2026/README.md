@@ -11,4 +11,7 @@
 - Pongpanot Tavewatwuttikun
 - Thanapon Permchat
 - Thassanawalai Manusayanont
+	+ GitHub Page : [thassanawalai.github.io](https://thassanawalai.github.io/)
+	+ [Identify Relational and Non-Relational Databases](https://thassanawalai.github.io/Lab1.2.7)
+	+ [Identify Different File Formats](https://thassanawalai.github.io/Lab05.1.4)
 - Wichanard Kumsang
