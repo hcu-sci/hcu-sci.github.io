@@ -11,6 +11,7 @@
 - Kanokphorn Rungrattanapong
 	+ [GitHub](https://github.com/lookmaizaza) Page : [lookmaizaza.github.io](https://lookmaizaza.github.io/)
 - Pongpanot Tavewatwuttikun
+	+ [GitHub](https://github.com/oscarpongpanot) Page : [oscarpongpanot.github.io](https://oscarpongpanot.github.io/)
 - Thanapon Permchat
 - Thassanawalai Manusayanont
 	+ [GitHub](https://github.com/thassanawalai) Page : [thassanawalai.github.io](https://thassanawalai.github.io/)
