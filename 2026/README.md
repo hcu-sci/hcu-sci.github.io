@@ -18,7 +18,6 @@
 	+ [GitHub](https://github.com/oscarpongpanot) Page : [oscarpongpanot.github.io](https://oscarpongpanot.github.io/)
 	+ [Database Design in Microsoft Access](https://oscarpongpanot.github.io/Database-Design-in-Microsoft-Access)
 	+ [Analyze Data](https://oscarpongpanot.github.io/Analyze-Data)
-	+ [trend_inbound_tourists]
 - Thanapon Permchat
 - Thassanawalai Manusayanont
 	+ [GitHub](https://github.com/thassanawalai) Page : [thassanawalai.github.io](https://thassanawalai.github.io/)
