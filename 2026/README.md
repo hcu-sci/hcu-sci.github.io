@@ -16,6 +16,8 @@
 	+ [Build an Ad-Hoc Report](https://lookmaizaza.github.io/Build-an-Ad-Hoc-Report)
 - Pongpanot Tavewatwuttikun
 	+ [GitHub](https://github.com/oscarpongpanot) Page : [oscarpongpanot.github.io](https://oscarpongpanot.github.io/)
+	+ [Database Design in Microsoft Access](https://oscarpongpanot.github.io/Database-Design-in-Microsoft-Access)
+	+ [Analyze Data](https://oscarpongpanot.github.io/Analyze-Data)
 - Thanapon Permchat
 - Thassanawalai Manusayanont
 	+ [GitHub](https://github.com/thassanawalai) Page : [thassanawalai.github.io](https://thassanawalai.github.io/)
