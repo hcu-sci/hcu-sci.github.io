@@ -28,3 +28,4 @@
 	+ [GitHub](https://github.com/wichanard) Page : [wichanard.github.io](https://wichanard.github.io/)
 	+ [Data Type Selection and Conversion](https://wichanard.github.io/Data-Type-Selection-and-Conversion)
 	+ [Filter Dashboard Data & Interactive Reporting](https://wichanard.github.io/Filter-Dashboard-Data-and-Interactive-Reporting)
+	+ [Import-Export Analysis](https://wichanard.github.io/Import-Export-Analysis.md)
