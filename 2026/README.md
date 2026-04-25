@@ -8,8 +8,12 @@
 
 - Apasita Pasukree
 	+ [GitHub](https://github.com/apasita) Page : [apasita.github.io](https://apasita.github.io/)
+	+ [Implement Queries and Join Types](https://apasita.github.io/Implement-Queries-and-Join-Types)
+	+ [Build Visuals to Make an Impact](https://apasita.github.io/Build-Visuals-to-Make-an-Impact)
 - Kanokphorn Rungrattanapong
 	+ [GitHub](https://github.com/lookmaizaza) Page : [lookmaizaza.github.io](https://lookmaizaza.github.io/)
+	+ [Using the Measures of Central Tendency](https://lookmaizaza.github.io/Using-the-Measures-of-Central-Tendency)
+	+ [Build an Ad-Hoc Report](https://lookmaizaza.github.io/Build-an-Ad-Hoc-Report)
 - Pongpanot Tavewatwuttikun
 	+ [GitHub](https://github.com/oscarpongpanot) Page : [oscarpongpanot.github.io](https://oscarpongpanot.github.io/)
 - Thanapon Permchat
