@@ -18,9 +18,13 @@
 	+ [GitHub](https://github.com/oscarpongpanot) Page : [oscarpongpanot.github.io](https://oscarpongpanot.github.io/)
 	+ [Database Design in Microsoft Access](https://oscarpongpanot.github.io/Database-Design-in-Microsoft-Access)
 	+ [Analyze Data](https://oscarpongpanot.github.io/Analyze-Data)
+	+ [trend_inbound_tourists]
 - Thanapon Permchat
 - Thassanawalai Manusayanont
 	+ [GitHub](https://github.com/thassanawalai) Page : [thassanawalai.github.io](https://thassanawalai.github.io/)
 	+ [Navigate Database Design](https://thassanawalai.github.io/Navigate-Database-Design)
 	+ [Prepare Data in Different File Formats](https://thassanawalai.github.io/Prepare-Data-in-Different-File-Formats)
 - Wichanard Kumsang
+	+ [GitHub](https://github.com/wichanard) Page : [wichanard.github.io](https://wichanard.github.io/)
+	+ [Data Type Selection and Conversion](https://wichanard.github.io/Data-Type-Selection-and-Conversion)
+	+ [Filter Dashboard Data & Interactive Reporting](https://wichanard.github.io/Filter-Dashboard-Data-and-Interactive-Reporting)
