@@ -7,7 +7,9 @@
 ## Students
 
 - Apasita Pasukree
+	+ [GitHub](https://github.com/apasita) Page : [apasita.github.io](https://apasita.github.io/)
 - Kanokphorn Rungrattanapong
+	+ [GitHub](https://github.com/lookmaizaza) Page : [lookmaizaza.github.io](https://lookmaizaza.github.io/)
 - Pongpanot Tavewatwuttikun
 - Thanapon Permchat
 - Thassanawalai Manusayanont
