@@ -17,9 +17,9 @@
 	+ [Travel Mode Analysis](https://lookmaizaza.github.io/Travel-Mode-Analysis)
 - Pongpanot Tavewatwuttikun
 	+ [GitHub](https://github.com/oscarpongpanot) Page : [oscarpongpanot.github.io](https://oscarpongpanot.github.io/)
-	+ [Database Design in Microsoft Access](https://oscarpongpanot.github.io/Database-Design-in-Microsoft-Access)
-	+ [Analyze Data](https://oscarpongpanot.github.io/Analyze-Data)
-	+ [Inbound Tourism Trends Analysis](https://oscarpongpanot.github.io/Analyze-Data/Inbound-Tourism-Trends-Analysis)
+	+ [Database Design in Microsoft Access](https://oscarpongpanot.github.io/Assignment/Database-Design-in-Microsoft-Access)
+	+ [Analyze Data](https://oscarpongpanot.github.io/Assignment/Analyze-Data)
+	+ [Inbound Tourism Trends Analysis](https://oscarpongpanot.github.io/insight/Inbound-Tourism-Trends-Analysis)
 - Thanapon Permchat
 	+ [GitHub](https://github.com/acquerello11) Page : [acquerello11.github.io](https://acquerello11.github.io/)
 	+ [Ensure Valid Input](https://acquerello11.github.io/Ensure-Valid-Input)
