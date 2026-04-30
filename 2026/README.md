@@ -24,6 +24,7 @@
 	+ [GitHub](https://github.com/acquerello11) Page : [acquerello11.github.io](https://acquerello11.github.io/)
 	+ [Ensure Valid Input](https://acquerello11.github.io/Ensure-Valid-Input)
 	+ [Use Data to Inform Product Decisions](https://acquerello11.github.io/Use-Data-to-Inform-Product-Decisions)
+	+ [Agricultural Data Analysis](https://acquerello11.github.io/Agricultural-Data-Analysis)
 - Thassanawalai Manusayanont
 	+ [GitHub](https://github.com/thassanawalai) Page : [thassanawalai.github.io](https://thassanawalai.github.io/)
 	+ [Navigate Database Design](https://thassanawalai.github.io/Navigate-Database-Design)
